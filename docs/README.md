@@ -10,8 +10,6 @@ status: approved
 
 # AncestorTree Documentation
 
-> Gia Phả Điện Tử - Họ Đặng làng Kỷ Các
-
 ## SDLC Framework v6.1.0 - LITE Tier
 
 This project uses the **LITE** tier of the MTS SDLC Framework with 5 stages:

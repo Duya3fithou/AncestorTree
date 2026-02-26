@@ -21,14 +21,14 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: 'Gia Phả Điện Tử - Họ Đặng làng Kỷ Các',
-    template: '%s | Gia Phả Họ Đặng',
+    default: 'Gia Phả Điện Tử - Họ Trịnh Văn',
+    template: '%s | Gia Phả Họ Trịnh Văn',
   },
-  description: 'Phần mềm quản lý gia phả điện tử cho Họ Đặng làng Kỷ Các. Lưu trữ thông tin dòng họ, cây gia phả, lịch giỗ chạp.',
-  keywords: ['gia phả', 'gia phả điện tử', 'Họ Đặng', 'làng Kỷ Các', 'dòng họ', 'cây gia phả', 'phả hệ'],
-  authors: [{ name: 'Họ Đặng làng Kỷ Các' }],
+  description: 'Phần mềm quản lý gia phả điện tử cho Họ Trịnh Văn. Lưu trữ thông tin dòng họ, cây gia phả, lịch giỗ chạp.',
+  keywords: ['gia phả', 'gia phả điện tử', 'dòng họ', 'cây gia phả', 'phả hệ'],
+  authors: [{ name: 'Họ Trịnh Văn' }],
   openGraph: {
-    title: 'Gia Phả Điện Tử - Họ Đặng làng Kỷ Các',
+    title: 'Gia Phả Điện Tử - Họ Trịnh Văn',
     description: 'Gìn giữ tinh hoa - Tiếp bước cha ông',
     type: 'website',
     locale: 'vi_VN',

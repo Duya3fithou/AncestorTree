@@ -1,6 +1,5 @@
 # AncestorTree
 
-> **Gia Pha Dien Tu - Họ Đặng làng Kỷ Các, Thach Lam, Ha Tinh**
 
 Phan mem quan ly gia pha dien tu giup gin giu va truyen thua thong tin dong ho qua cac the he.
 

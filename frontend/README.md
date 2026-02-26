@@ -1,6 +1,6 @@
 # 🌳 Gia Phả Điện Tử - Frontend
 
-**Họ Đặng làng Kỷ Các**
+**Họ Trịnh Văn**
 
 ## 🚀 Quick Start
 
