@@ -40,5 +40,7 @@
     "typescript": "^5",
     "vercel": "^50.22.1"
   },
-  "packageManager": "yarn@1.22.22"
+  "packageManager": "yarn@1.22.22",
+  "installCommand": "cd frontend && yarn install --frozen-lockfile",
+  "buildCommand": "cd frontend && yarn build"
 }
